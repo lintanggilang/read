@@ -1,501 +1,201 @@
 ﻿No;English;bahasa
-1;Anomaly detection is important for identifying outliers in data. ; Deteksi anomali penting untuk mengidentifikasi data yang tidak biasa.
-2;Avoid negative influences and toxic relationships. ; Hindari pengaruh negatif dan hubungan yang beracun.
-3;Bali is a popular tourist destination known for its beaches. ; Bali adalah tujuan wisata populer yang terkenal dengan pantainya.
-4;Bali is known for its luxury resorts and villas. ; Bali terkenal dengan resor mewah dan vila-vilanya.
-5;Believe in yourself and your abilities. ; Percayalah pada diri sendiri dan kemampuan Anda.
-6;Believe that challenges are opportunities in disguise. ; Percayalah bahwa tantangan adalah peluang yang tersamar.
-7;Believe that you are capable of achieving great things. ; Percayalah bahwa Anda mampu mencapai hal-hal besar.
-8;Borobudur Temple is a UNESCO World Heritage Site. ; Candi Borobudur adalah Situs Warisan Dunia UNESCO.
-9;Break down big goals into smaller, manageable tasks. ; Bagi tujuan besar menjadi tugas-tugas kecil yang dapat dikelola.
-10;Celebrate your small victories and milestones. ; Rayakan kemenangan kecil dan tonggak pencapaian Anda.
-11;Clustering is a common task in unsupervised learning. ; Pengelompokan adalah tugas umum dalam pembelajaran tak terawasi.
-12;Continuously improve and develop your skills. ; Teruslah meningkatkan dan mengembangkan keterampilan Anda.
-13;Continuously seek personal and professional development. ; Terus mencari pengembangan pribadi dan profesional.
-14;Convolutional neural networks are used for image and video analysis. ; Jaringan saraf konvolusi digunakan untuk analisis gambar dan video.
-15;Create a daily routine that aligns with your goals. ; Buat rutinitas harian yang sejalan dengan tujuan Anda.
-16;Cultivate a growth mindset and embrace challenges. ; Kembangkan pola pikir pertumbuhan dan hadapi tantangan.
-17;Cultivate a growth mindset and embrace change. ; Kembangkan pola pikir pertumbuhan dan terimalah perubahan.
-18;Cultivate a positive and empowering environment. ; Kembangkan lingkungan yang positif dan memberdayakan.
-19;Cultivate a positive mindset and self-belief. ; Kembangkan pola pikir positif dan keyakinan pada diri sendiri.
-20;Cultivate a resilient mindset and adapt to change. ; Kembangkan pola pikir yang tangguh dan beradaptasi dengan perubahan.
-21;Cultivate a resilient spirit and bounce back from adversity. ; Kembangkan semangat yang tangguh dan pulih dari kesulitan.
-22;Cultivate a sense of self-worth and self-love. ; Kembangkan rasa harga diri dan cinta pada diri sendiri.
-23;Cultivate a strong work ethic and dedication. ; Kembangkan etika kerja yang kuat dan dedikasi.
-24;Deep learning neural networks can handle image recognition tasks. ; Jaringan saraf deep learning dapat menangani tugas pengenalan gambar.
-25;Embrace failure as a stepping stone to success. ; Terimalah kegagalan sebagai batu loncatan menuju kesuksesan.
-26;Feature engineering is crucial in preparing data for machine learning. ; Rekayasa fitur sangat penting dalam persiapan data untuk machine learning.
-27;Find a balance between work, family, and self-care. ; Temukan keseimbangan antara pekerjaan, keluarga, dan perawatan diri.
-28;Find a mentor or role model to guide you. ; Temukan mentor atau panutan untuk membimbing Anda.
-29;Find inspiration in acts of kindness and compassion. ; Temukan inspirasi dalam tindakan kebaikan dan kasih sayang.
-30;Find inspiration in nature and the world around you. ; Temukan inspirasi dalam alam dan dunia di sekitar Anda.
-31;Find inspiration in the achievements of great individuals. ; Temukan inspirasi dalam pencapaian individu besar.
-32;Find inspiration in the achievements of ordinary people. ; Temukan inspirasi dalam pencapaian orang biasa.
-33;Find inspiration in the beauty of the natural world. ; Temukan inspirasi dalam keindahan alam.
-34;Find inspiration in the stories of perseverance. ; Temukan inspirasi dalam kisah-kisah ketekunan.
-35;Find inspiration in the success stories of others. ; Temukan inspirasi dalam kisah sukses orang lain.
-36;Find inspiration in your passions and hobbies. ; Temukan inspirasi dalam passion dan hobi Anda.
-37;Find support from mentors and like-minded individuals. ; Cari dukungan dari mentor dan individu sevisi.
-38;Generative adversarial networks can create realistic synthetic data. ; Jaringan generatif adversarial dapat menciptakan data sintetis yang realistis.
-39;He is a better swimmer than his brother. ; Dia adalah perenang yang lebih baik daripada saudaranya.
-40;He is going to buy a new computer soon. ; Dia akan membeli komputer baru segera.
-41;He is responsible for cleaning and preprocessing the data. ; Dia bertanggung jawab membersihkan dan preprocessing data.
-42;He is responsible for managing the budget. ; Dia bertanggung jawab mengelola anggaran.
-43;He is the fastest runner on the team. ; Dia adalah pelari tercepat di tim.
-44;He plays the guitar in a band. ; Dia bermain gitar di sebuah band.
-45;He reads a book every night before bed. ; Dia membaca buku setiap malam sebelum tidur.
-46;He usually wakes up early. ; Dia biasanya bangun pagi.
-47;His car is faster than mine. ; Mobilnya lebih cepat daripada milik saya.
-48;His car is older than mine. ; Mobilnya lebih tua daripada milikku.
-49;Hyperparameter optimization is essential for model performance. ; Optimisasi hiperparameter sangat penting untuk kinerja model.
-50;I attend weekly team meetings on Wednesdays. ; Saya menghadiri pertemuan tim mingguan pada hari Rabu.
-51;I have a meeting with the boss this afternoon. ; Saya memiliki pertemuan dengan bos sore ini.
-52;I have already completed my homework. ; Saya sudah menyelesaikan pekerjaan rumah saya.
-53;I love reading books every day. ; Saya suka membaca buku setiap hari.
-54;I need to clean the house today. ; Saya perlu membersihkan rumah hari ini.
-55;I need to submit the expense report by Friday. ; Saya perlu mengirimkan laporan biaya hingga Jumat.
-56;I often have to deal with office supplies inventory. ; Saya sering harus mengurus inventaris perlengkapan kantor.
-57;I often take the bus to work. ; Saya sering naik bis ke tempat kerja.
-58;I often use SQL for querying and data extraction. ; Saya sering menggunakan SQL untuk kueri dan ekstraksi data.
-59;I used to live in New York. ; Saya dulu tinggal di New York.
-60;I usually go jogging in the morning. ; Saya biasanya jogging di pagi hari.
-61;I usually have a lot of emails to respond to in the morning. ; Saya biasanya memiliki banyak email untuk dijawab di pagi hari.
-62;I usually have a lunch break at noon. ; Saya biasanya istirahat makan siang pada tengah hari.
-63;I visited the museum last weekend. ; Saya mengunjungi museum akhir pekan lalu.
-64;I walk to school every morning. ; Saya berjalan ke sekolah setiap pagi.
-65;I want to buy a new phone. ; Saya ingin membeli ponsel baru.
-66;I will call you as soon as I arrive. ; Saya akan menelepon Anda segera setelah saya tiba.
-67;I will call you when I get home. ; Saya akan menelepon Anda saat saya sampai di rumah.
-68;I will help you with your homework later. ; Saya akan membantu Anda dengan pekerjaan rumah Anda nanti.
-69;I will meet you at the coffee shop. ; Saya akan bertemu dengan Anda di kedai kopi.
-70;I will travel to Europe in the summer. ; Saya akan bepergian ke Eropa pada musim panas.
-71;I will travel to Europe next summer. ; Saya akan bepergian ke Eropa musim panas depan.
-72;I will visit my grandparents next week. ; Saya akan mengunjungi kakek nenek saya minggu depan.
-73;I will visit the doctor if I feel unwell. ; Saya akan mengunjungi dokter jika saya merasa tidak sehat.
-74;I woke up early this morning. ; Saya bangun pagi tadi.
-75;If additional information is required, we'll follow up after the meeting. ; Jika diperlukan informasi tambahan, kita akan mengikuti setelah pertemuan.
-76;If anyone has any suggestions, feel free to speak up. ; Jika ada yang punya saran, jangan ragu untuk mengungkapkannya.
-77;If anyone has suggestions for future meetings, please share them. ; Jika ada yang punya saran untuk pertemuan-pertemuan mendatang, tolong bagikan.
-78;If anyone needs clarification, please ask for it. ; Jika ada yang membutuhkan klarifikasi, mohon minta penjelasan.
-79;If everyone is ready, we can begin the discussion. ; Jika semua orang sudah siap, kita bisa memulai diskusi.
-80;If I study hard, I'll pass the exam. ; Jika saya belajar keras, saya akan lulus ujian.
-81;If it gets too hot, we'll go swimming. ; Jika terlalu panas, kita akan berenang.
-82;If it rains, bring an umbrella. ; Jika hujan, bawa payung.
-83;If it rains, we will stay indoors. ; Jika hujan, kita akan tinggal di dalam.
-84;If it rains, we'll stay indoors. ; Jika hujan, kita akan tinggal di dalam ruangan.
-85;If it snows heavily, schools may be closed. ; Jika turun salju dengan sangat deras, sekolah-sekolah mungkin ditutup.
-86;If it snows, we'll build a snowman. ; Jika turun salju, kita akan membuat boneka salju.
-87;If it snows, we'll go sledding in the park. ; Jika turun salju, kita akan bermain seluncur di taman.
-88;If the client approves the proposal, we can start the project. ; Jika klien menyetujui proposal, kita bisa memulai proyeknya.
-89;If the client has any questions, please address them. ; Jika klien memiliki pertanyaan, tolong tanggapi.
-90;If the conference room is available, we can schedule a meeting. ; Jika ruang konferensi tersedia, kita bisa menjadwalkan pertemuan.
-91;If the data distribution is skewed, we'll transform it. ; Jika distribusi data condong, kita akan mentransformasikannya.
-92;If the data is accurate, our conclusions will be reliable. ; Jika data akurat, kesimpulan kita akan dapat diandalkan.
-93;If the data is noisy, we'll need to apply smoothing techniques. ; Jika data bising, kita perlu menerapkan teknik-teknik perataan.
-94;If the data is not normally distributed, we'll use non-parametric tests. ; Jika data tidak terdistribusi normal, kita akan menggunakan uji non-parametrik.
-95;If the data is structured, we can use SQL for analysis. ; Jika data terstruktur, kita bisa menggunakan SQL untuk analisis.
-96;If the data is too large, we'll employ big data tools. ; Jika data terlalu besar, kita akan menggunakan alat-alat big data.
-97;If the data is well-organized, the analysis process is smoother. ; Jika data terorganisir dengan baik, proses analisis lebih lancar.
-98;If the data preprocessing is thorough, it reduces noise in the data. ; Jika preprocessing data teliti, itu mengurangi noise dalam data.
-99;If the data quality is poor, it can lead to incorrect conclusions. ; Jika kualitas data buruk, itu bisa menghasilkan kesimpulan yang salah.
-100;If the data source is unreliable, our analysis may be flawed. ; Jika sumber data tidak dapat diandalkan, analisis kita bisa cacat.
-101;If the discussion becomes off-topic, we'll refocus. ; Jika diskusi menjadi diluar topik, kita akan mengalihkan fokus.
-102;If the feature extraction is done well, it simplifies the modeling process. ; Jika ekstraksi fitur dilakukan dengan baik, itu menyederhanakan proses pemodelan.
-103;If the feature selection is done correctly, it improves model performance. ; Jika pemilihan fitur dilakukan dengan benar, itu meningkatkan kinerja model.
-104;If the meeting goes over time, we may need to schedule a follow-up. ; Jika pertemuan berlangsung melebihi waktu, kita mungkin perlu menjadwalkan tindak lanjut.
-105;If the model is deployed, it can make real-time predictions. ; Jika model dideploy, itu dapat melakukan prediksi waktu nyata.
-106;If the model is fine-tuned, it adapts to specific tasks. ; Jika model disesuaikan, ia akan beradaptasi dengan tugas-tugas tertentu.
-107;If the model is interpretable, it's easier to explain its decisions. ; Jika model dapat diinterpretasikan, lebih mudah menjelaskan keputusannya.
-108;If the model is robust, it can handle noisy or incomplete data. ; Jika modelnya kuat, itu dapat menangani data yang berisik atau tidak lengkap.
-109;If the model is well-regularized, it generalizes better to new data. ; Jika modelnya diatur dengan baik, ia generalisasi lebih baik ke data baru.
-110;If the model overfits, it may not generalize well to new data. ; Jika model overfitting, mungkin tidak dapat menggeneralisasi data baru dengan baik.
-111;If the model underfits, it doesn't capture the data's complexity. ; Jika model underfitting, ia tidak menangkap kompleksitas data.
-112;If the model's hyperparameters are tuned, it can perform better. ; Jika hiperparameter model disesuaikan, ia dapat berkinerja lebih baik.
-113;If the model's training converges, it indicates learning success. ; Jika pelatihan model konvergen, itu menunjukkan kesuksesan pembelajaran.
-114;If the neural network is deep, it can handle complex tasks. ; Jika jaringan sarafnya dalam, ia dapat menangani tugas-tugas kompleks.
-115;If the presentation goes well, we might win the contract. ; Jika presentasinya sukses, kita mungkin akan memenangkan kontraknya.
-116;If the presentation is successful, we'll secure the deal. ; Jika presentasinya sukses, kita akan mendapatkan kesepakatan.
-117;If the project is delayed, we'll need to adjust the schedule. ; Jika proyeknya terlambat, kita perlu menyesuaikan jadwal.
-118;If the project is on schedule, we'll meet the deadline. ; Jika proyeknya sesuai jadwal, kita akan memenuhi batas waktu.
-119;If the project scope has changed, we need to adjust our plans. ; Jika ruang lingkup proyek berubah, kita perlu menyesuaikan rencana kita.
-120;If the training dataset is imbalanced, it can lead to biased models. ; Jika dataset pelatihan tidak seimbang, itu bisa mengakibatkan model yang bias.
-121;If there are any changes to the agenda, we'll address them now. ; Jika ada perubahan pada agenda, kita akan bahas sekarang.
-122;If there are any conflicts, we'll work towards resolution. ; Jika ada konflik, kita akan bekerja menuju penyelesaian.
-123;If there are any objections, let's discuss them openly. ; Jika ada keberatan, mari kita bahas secara terbuka.
-124;If there are any outstanding issues, we'll work to resolve them. ; Jika ada masalah yang belum terselesaikan, kita akan berusaha menyelesaikannya.
-125;If there are any unresolved issues, let's address them now. ; Jika ada masalah yang belum terselesaikan, mari kita bahas sekarang.
-126;If there's any new business to discuss, please bring it up. ; Jika ada bisnis baru yang perlu dibahas, tolong disampaikan.
-127;If there's anything urgent, please bring it to our attention. ; Jika ada yang mendesak, tolong perhatikan.
-128;If we clean the windows regularly, the view will be clearer. ; Jika kita membersihkan jendela secara teratur, pandangan akan lebih jelas.
-129;If we fix the roof, it will prevent water leaks. ; Jika kita memperbaiki atap, itu akan mencegah kebocoran air.
-130;If we gather more data points, our analysis will be more accurate. ; Jika kita mengumpulkan lebih banyak titik data, analisis kita akan lebih akurat.
-131;If we install a programmable thermostat, it will save on energy bills. ; Jika kita menginstal termostat yang dapat diprogram, akan menghemat biaya energi.
-132;If we install a water filter, we'll have cleaner drinking water. ; Jika kita menginstal penyaring air, kita akan memiliki air minum yang lebih bersih.
-133;If we insulate the attic, it will keep the house warmer in winter. ; Jika kita mengisolasi atap, itu akan membuat rumah tetap hangat di musim dingin.
-134;If we meet the sales target, we'll get a bonus. ; Jika kita mencapai target penjualan, kita akan mendapatkan bonus.
-135;If we mend the broken fence, it will secure the backyard. ; Jika kita memperbaiki pagar yang rusak, itu akan mengamankan halaman belakang.
-136;If we organize our closets, we'll have more space. ; Jika kita merapikan lemari, kita akan memiliki lebih banyak ruang.
-137;If we organize the pantry, it will be easier to find ingredients. ; Jika kita merapikan ruang penyimpanan, akan lebih mudah menemukan bahan-bahan.
-138;If we plant flowers in the garden, it will look more colorful. ; Jika kita menanam bunga di taman, akan terlihat lebih berwarna.
-139;If we recycle, we can reduce our household waste. ; Jika kita mendaur ulang, kita dapat mengurangi limbah rumah tangga.
-140;If we vacuum regularly, there will be less dust. ; Jika kita menyedot debu secara teratur, akan ada lebih sedikit debu.
-141;If we water the plants regularly, they'll thrive. ; Jika kita menyiram tanaman secara teratur, mereka akan berkembang dengan baik.
-142;If you arrive early, you can get a good seat. ; Jika Anda tiba lebih awal, Anda bisa mendapatkan tempat duduk yang bagus.
-143;If you don't eat, you'll be hungry. ; Jika kamu tidak makan, kamu akan lapar.
-144;If you don't study, you will fail the test. ; Jika kamu tidak belajar, kamu akan gagal ujian.
-145;If you eat too much, you might feel sick. ; Jika Anda makan terlalu banyak, Anda mungkin akan merasa sakit.
-146;If you eat too much, you'll get sick. ; Jika kamu makan terlalu banyak, kamu akan sakit.
-147;If you have any IT issues, contact the helpdesk. ; Jika Anda memiliki masalah IT, hubungi meja bantuan.
-148;If you have any questions, please raise your hand. ; Jika Anda memiliki pertanyaan, mohon mengangkat tangan.
-149;If you study hard, you'll get good grades. ; Jika Anda belajar dengan giat, Anda akan mendapatkan nilai yang baik.
-150;If you study, you'll get good grades. ; Jika kamu belajar, kamu akan mendapatkan nilai bagus.
-151;If you water the plants, they will grow. ; Jika kamu menyiram tanaman, mereka akan tumbuh.
-152;If you work hard, you'll achieve your goals. ; Jika kamu bekerja keras, kamu akan mencapai tujuanmu.
-153;If you work hard, you'll achieve your goals. ; Jika Anda bekerja keras, Anda akan mencapai tujuan Anda.
-154;If you work late, you'll need to notify the security. ; Jika kamu kerja lembur, kamu perlu memberi tahu keamanan.
-155;I'm analyzing the sales data for the last quarter. ; Saya sedang menganalisis data penjualan kuartal terakhir.
-156;I'm baking fresh bread for breakfast. ; Saya sedang memanggang roti segar untuk sarapan.
-157;I'm baking homemade cookies for dessert. ; Saya sedang membakar kue kering buatan sendiri untuk makanan penutup.
-158;I'm cooking a special dinner for our anniversary. ; Saya sedang memasak makan malam istimewa untuk ulang tahun kita.
-159;I'm doing the laundry today. ; Saya sedang mencuci pakaian hari ini.
-160;I'm fixing the leaky faucet in the bathroom. ; Saya sedang memperbaiki keran yang bocor di kamar mandi.
-161;I'm planning to declutter the garage next week. ; Saya berencana untuk membersihkan garasi minggu depan.
-162;I'm planting flowers in hanging baskets on the porch. ; Saya sedang menanam bunga di bak gantung di teras.
-163;I'm planting herbs in the kitchen garden. ; Saya sedang menanam rempah-rempah di kebun dapur.
-164;I'm planting vegetables in raised garden beds. ; Saya sedang menanam sayuran di tempat tidur taman yang terangkat.
-165;I'm repairing the squeaky door hinges. ; Saya sedang memperbaiki engsel pintu yang berderit.
-166;I'm responsible for organizing the office party. ; Saya bertanggung jawab mengatur pesta kantor.
-167;I'm setting up a home office space for remote work. ; Saya sedang menyiapkan ruang kantor di rumah untuk bekerja dari jarak jauh.
-168;I'm setting up a recycling station in the garage. ; Saya sedang menyiapkan stasiun daur ulang di garasi.
-169;I'm sewing a new set of curtains for the living room. ; Saya sedang menjahit tirai baru untuk ruang tamu.
-170;I'm using Python for data analysis and visualization. ; Saya menggunakan Python untuk analisis dan visualisasi data.
-171;Indonesia has a rich history of trade and culture. ; Indonesia memiliki sejarah perdagangan dan budaya yang kaya.
-172;Indonesia has a tropical climate, perfect for beach lovers. ; Indonesia memiliki iklim tropis, sempurna bagi pecinta pantai.
-173;Indonesia has a wide range of wildlife, including orangutans. ; Indonesia memiliki beragam satwa liar, termasuk orangutan.
-174;Indonesia has active volcanoes that can be hiked. ; Indonesia memiliki gunung berapi aktif yang dapat didaki.
-175;Indonesia has diverse marine life for snorkeling and diving. ; Indonesia memiliki kehidupan laut yang beragam untuk snorkeling dan menyelam.
-176;Indonesia is a beautiful country with diverse landscapes. ; Indonesia adalah negara yang indah dengan lanskap yang beragam.
-177;Indonesia is a paradise for nature enthusiasts and photographers. ; Indonesia adalah surga bagi para pecinta alam dan fotografer.
-178;Indonesia is home to the second-largest tropical forest. ; Indonesia adalah rumah bagi hutan tropis terbesar kedua di dunia.
-179;Indonesia is known for its active arts and crafts. ; Indonesia terkenal dengan seni dan kerajinan aktifnya.
-180;Indonesian batik is known for its intricate designs. ; Batik Indonesia terkenal dengan desain-desainnya yang rumit.
-181;Indonesian cuisine is flavorful and diverse. ; Masakan Indonesia kaya rasa dan beragam.
-182;Indonesian food often includes rice and spicy sambal. ; Makanan Indonesia seringkali mengandung nasi dan sambal pedas.
-183;Indonesian traditional music includes gamelan and angklung. ; Musik tradisional Indonesia termasuk gamelan dan angklung.
-184;Jakarta offers a vibrant nightlife with numerous clubs. ; Jakarta menawarkan kehidupan malam yang penuh semangat dengan berbagai klub.
-185;Jakarta, the capital city, is a bustling metropolis. ; Jakarta, ibukota, adalah sebuah metropolis yang ramai.
-186;Keep a gratitude jar to collect daily moments of appreciation. ; Simpan botol rasa syukur untuk mengumpulkan momen apresiasi harian.
-187;Keep a gratitude journal to appreciate the present moment. ; Simpan jurnal rasa syukur untuk menghargai momen ini.
-188;Keep a gratitude journal to focus on the good in life. ; Simpan jurnal rasa syukur untuk fokus pada kebaikan dalam hidup.
-189;Keep a journal to track your progress and achievements. ; Simpan jurnal untuk melacak kemajuan dan pencapaian Anda.
-190;Keep a success diary to track your progress. ; Simpan catatan kesuksesan untuk melacak kemajuan Anda.
-191;Keep a success jar to collect your achievements. ; Simpan botol kesuksesan untuk mengumpulkan pencapaian Anda.
-192;Keep a success journal to track your achievements. ; Simpan jurnal kesuksesan untuk melacak pencapaian Anda.
-193;Keep a success vision board to visualize your dreams. ; Simpan papan visi kesuksesan untuk memvisualisasikan impian Anda.
-194;Keep a vision board to remind you of your goals. ; Simpan papan visi untuk mengingatkan Anda pada tujuan Anda.
-195;Keep a vision of your success in your mind's eye. ; Simpan visi kesuksesan Anda di mata pikiran Anda.
-196;Komodo Island is home to the famous Komodo dragons. ; Pulau Komodo adalah rumah bagi komodo terkenal.
-197;Learn from successful people and their experiences. ; Pelajari dari orang-orang sukses dan pengalaman mereka.
-198;Learn from your failures and turn them into successes. ; Pelajari dari kegagalan Anda dan ubah menjadi kesuksesan.
-199;Learn from your mistakes and use them as stepping stones. ; Pelajari dari kesalahan Anda dan gunakan mereka sebagai batu loncatan.
-200;Learn to adapt and be flexible in your approach. ; Belajarlah untuk beradaptasi dan fleksibel dalam pendekatan Anda.
-201;Lembang Floating Market is a popular tourist attraction. ; Pasar Terapung Lembang adalah atraksi wisata yang populer.
-202;Lombok is known for its pristine beaches and surfing spots. ; Lombok terkenal dengan pantai-pantainya yang cantik dan tempat-tempat berselancar.
-203;Machine learning algorithms can classify data into categories. ; Algoritma machine learning dapat mengklasifikasikan data ke dalam kategori.
-204;Maintain a positive attitude even in challenging times. ; Pertahankan sikap positif bahkan dalam masa-masa sulit.
-205;Model deployment in the cloud provides scalability and accessibility. ; Deployment model di cloud memberikan skalabilitas dan aksesibilitas.
-206;Mount Bromo offers stunning sunrise views. ; Gunung Bromo menawarkan pemandangan matahari terbit yang memukau.
-207;My brother is taller than me. ; Saudara laki-laki saya lebih tinggi dari saya.
-208;My car is faster than yours. ; Mobil saya lebih cepat daripada milikmu.
-209;My cat is lazier than my dog. ; Kucing saya lebih pemalas daripada anjing saya.
-210;My desk is cleaner than it was last week. ; Meja kerja saya lebih bersih daripada minggu lalu.
-211;My dog is the friendliest pet in the neighborhood. ; Anjing saya adalah hewan peliharaan paling ramah di lingkungan.
-212;My phone is smaller than yours. ; Ponsel saya lebih kecil daripada milikmu.
-213;My sister speaks French fluently. ; Saudara perempuan saya bisa berbicara bahasa Perancis lancar.
-214;Network and build meaningful connections with others. ; Jalin jaringan dan bangun hubungan yang berarti dengan orang lain.
-215;Neural networks can be used for time series forecasting. ; Jaringan saraf dapat digunakan untuk peramalan deret waktu.
-216;Neural networks with multiple hidden layers are called deep networks. ; Jaringan saraf dengan lapisan tersembunyi ganda disebut jaringan mendalam.
-217;Our department is more productive than the others. ; Departemen kami lebih produktif dibandingkan yang lain.
-218;Our team is working on predictive modeling for future trends. ; Tim kami sedang mengerjakan pemodelan prediktif untuk tren masa depan.
-219;Please pass around the attendance sheet for signatures. ; Tolong sebarkan lembar kehadiran untuk ditandatangani.
-220;Please silence your mobile phones during the meeting. ; Mohon matikan ponsel selama pertemuan.
-221;Practice determination and stay the course in your journey. ; Latih ketekunan dan tetap pada jalur dalam perjalanan Anda.
-222;Practice gratitude for the blessings in your life. ; Latih rasa syukur atas berkat dalam hidup Anda.
-223;Practice mindfulness and stay present in the moment. ; Latih kesadaran dan tetap hadir dalam momen.
-224;Practice perseverance and resilience in the face of adversity. ; Latih ketekunan dan ketahanan dalam menghadapi kesulitan.
-225;Practice resilience and bounce back from setbacks. ; Latih ketahanan dan pulih dari kemunduran.
-226;Practice self-care and prioritize your well-being. ; Lakukan perawatan diri dan prioritaskan kesejahteraan Anda.
-227;Practice self-compassion and kindness to yourself. ; Latih belas kasih pada diri sendiri.
-228;Practice time management and prioritize your tasks. ; Latih manajemen waktu dan utamakan tugas-tugas Anda.
-229;Raja Ampat is a paradise for divers with vibrant coral reefs. ; Raja Ampat adalah surga bagi penyelam dengan terumbu karang yang berwarna-warni.
-230;Reinforcement learning agents learn through trial and error. ; Agen pembelajaran penguatan belajar melalui percobaan dan kesalahan.
-231;Reinforcement learning is used in autonomous systems like self-driving cars. ; Pembelajaran penguatan digunakan dalam sistem otonom seperti mobil self-driving.
-232;Seek inspiration from books, podcasts, and motivational content. ; Cari inspirasi dari buku, podcast, dan konten motivasi.
-233;Semi-supervised learning combines labeled and unlabeled data. ; Pembelajaran semi-terawasi menggabungkan data yang berlabel dan yang tidak berlabel.
-234;Set a positive tone for your day with morning rituals. ; Tetapkan nada positif untuk hari Anda dengan ritual pagi.
-235;Set achievable goals and monitor your progress. ; Tetapkan tujuan yang dapat dicapai dan pantau kemajuan Anda.
-236;Set boundaries and say no when necessary. ; Tetapkan batasan dan katakan tidak saat diperlukan.
-237;Set clear and achievable goals to stay motivated. ; Tetapkan tujuan yang jelas dan dapat dicapai untuk tetap termotivasi.
-238;Set daily affirmations to boost your confidence. ; Tetapkan afirmasi harian untuk meningkatkan kepercayaan diri Anda.
-239;Set high expectations for yourself and your future. ; Tetapkan ekspektasi tinggi untuk diri sendiri dan masa depan Anda.
-240;Set high standards for yourself and your work. ; Tetapkan standar tinggi untuk diri Anda dan pekerjaan Anda.
-241;Set milestones to track your progress. ; Tetapkan tonggak pencapaian untuk melacak kemajuan Anda.
-242;Set realistic and attainable goals that challenge you. ; Tetapkan tujuan yang realistis dan dapat dicapai yang menantang Anda.
-243;Set specific and challenging goals that excite you. ; Tetapkan tujuan yang spesifik dan menantang yang menggairahkan Anda.
-244;Set specific, measurable, achievable, relevant, and time-bound (SMART) goals. ; Tetapkan tujuan yang spesifik, terukur, dapat dicapai, relevan, dan memiliki batas waktu (SMART).
-245;Set your priorities and manage your time effectively. ; Tetapkan prioritas Anda dan kelola waktu Anda dengan efektif.
-246;She enjoys reading books in her free time. ; Dia menikmati membaca buku-buku di waktu luangnya.
-247;She has a beautiful garden with colorful flowers. ; Dia memiliki taman yang indah dengan bunga-bunga berwarna.
-248;She has been working all day. ; Dia telah bekerja sepanjang hari.
-249;She has been working on this project for a month. ; Dia telah bekerja pada proyek ini selama sebulan.
-250;She has to review the financial statements today. ; Dia harus meninjau laporan keuangan hari ini.
-251;She is a talented painter. ; Dia adalah pelukis berbakat.
-252;She is currently studying at the library. ; Dia saat ini sedang belajar di perpustakaan.
-253;She is eating lunch right now. ; Dia sedang makan siang sekarang.
-254;She is going to attend a wedding next weekend. ; Dia akan menghadiri pernikahan akhir pekan depan.
-255;She is in charge of the marketing campaign. ; Dia bertanggung jawab atas kampanye pemasaran.
-256;She speaks English fluently. ; Dia berbicara bahasa Inggris dengan lancar.
-257;She usually cooks dinner for her family. ; Dia biasanya memasak makan malam untuk keluarganya.
-258;She usually goes for a run in the morning. ; Dia biasanya jogging di pagi hari.
-259;She will call the client to discuss the contract. ; Dia akan menelepon klien untuk membahas kontrak.
-260;She will call you later. ; Dia akan meneleponmu nanti.
-261;She will present the findings from our data analysis. ; Dia akan menyajikan temuan-temuan dari analisis data kami.
-262;She will study abroad next year. ; Dia akan belajar di luar negeri tahun depan.
-263;She writes poetry in her free time. ; Dia menulis puisi di waktu luangnya.
-264;Start your day with a positive affirmation. ; Mulailah hari Anda dengan afirmasi positif.
-265;Stay committed to your goals, even in the face of challenges. ; Tetap berkomitmen pada tujuan Anda, bahkan dalam menghadapi tantangan.
-266;Stay consistent in your efforts and actions. ; Tetap konsisten dalam upaya dan tindakan Anda.
-267;Stay curious and keep learning new things. ; Tetaplah penasaran dan terus belajar hal-hal baru.
-268;Stay dedicated to your path and trust the process. ; Tetap berkomitmen pada jalur Anda dan percayalah pada prosesnya.
-269;Stay determined and face challenges with courage. ; Tetaplah bertekad dan hadapi tantangan dengan keberanian.
-270;Stay determined and overcome obstacles in your path. ; Tetaplah bertekad dan atasi hambatan di depan Anda.
-271;Stay determined and overcome self-doubt. ; Tetaplah bertekad dan atasi keraguan pada diri sendiri.
-272;Stay determined and persevere through obstacles. ; Tetaplah bertekad dan bertahan melalui rintangan.
-273;Stay disciplined and manage your time effectively. ; Tetap disiplin dan kelola waktu Anda dengan efektif.
-274;Stay focused on your long-term vision and goals. ; Tetap fokus pada visi dan tujuan jangka panjang Anda.
-275;Stay motivated by celebrating your progress. ; Tetap termotivasi dengan merayakan kemajuan Anda.
-276;Stay motivated by finding joy in the journey, not just the destination. ; Tetap termotivasi dengan menemukan kegembiraan dalam perjalanan, bukan hanya tujuan.
-277;"Stay motivated by finding your ""why"" and purpose. ";" Tetap termotivasi dengan menemukan ""mengapa"" dan tujuan Anda."
-278;Stay motivated by focusing on the impact of your actions. ; Tetap termotivasi dengan fokus pada dampak tindakan Anda.
-279;Stay motivated by focusing on the positive aspects of your journey. ; Tetap termotivasi dengan fokus pada aspek positif perjalanan Anda.
-280;Stay motivated by reflecting on your progress. ; Tetap termotivasi dengan merenungkan kemajuan Anda.
-281;Stay motivated by reminding yourself of your purpose. ; Tetap termotivasi dengan mengingatkan diri Anda pada tujuan Anda.
-282;Stay motivated by setting clear intentions for each day. ; Tetap termotivasi dengan menetapkan niat yang jelas untuk setiap hari.
-283;Stay motivated by setting daily intentions and goals. ; Tetap termotivasi dengan menetapkan niat dan tujuan harian.
-284;Stay motivated by setting milestones and rewards. ; Tetap termotivasi dengan menetapkan tonggak pencapaian dan penghargaan.
-285;Stay motivated by setting personal and professional boundaries. ; Tetap termotivasi dengan menetapkan batasan pribadi dan profesional.
-286;Stay motivated by setting short-term goals and celebrating them. ; Tetap termotivasi dengan menetapkan tujuan jangka pendek dan merayakannya.
-287;Stay motivated by visualizing your dream life. ; Tetap termotivasi dengan memvisualisasikan kehidupan impian Anda.
-288;Stay persistent and never give up on your dreams. ; Tetap gigih dan jangan pernah menyerah pada impian Anda.
-289;Stay persistent and never lose sight of your dreams. ; Tetap gigih dan jangan pernah kehilangan visi impian Anda.
-290;Stay persistent, success often takes time and effort. ; Tetap gigih, kesuksesan seringkali memerlukan waktu dan usaha.
-291;Success is the result of hard work and determination. ; Kesuksesan adalah hasil dari kerja keras dan tekad.
-292;Surround yourself with people who lift you up. ; Berkelilingi diri Anda dengan orang-orang yang mendukung Anda.
-293;Surround yourself with positive and supportive people. ; Berkelilingi diri Anda dengan orang-orang positif dan mendukung.
-294;Take calculated risks to achieve greater success. ; Ambil risiko yang terukur untuk mencapai kesuksesan yang lebih besar.
-295;Take consistent and daily actions towards your goals. ; Ambil tindakan yang konsisten dan harian menuju tujuan Anda.
-296;Tana Toraja is famous for its unique funeral traditions. ; Tana Toraja terkenal dengan tradisi pemakaman yang unik.
-297;The accuracy of the model depends on the quality of training data. ; Akurasi model tergantung pada kualitas data pelatihan.
-298;The baby is sleeping in the crib. ; Bayi itu sedang tidur di ranjang bayi.
-299;The Banda Islands are historically significant for spice trade. ; Kepulauan Banda memiliki signifikansi sejarah dalam perdagangan rempah-rempah.
-300;The bathroom tiles need scrubbing to remove grime. ; Lantai keramik kamar mandi perlu digosok untuk menghilangkan kotoran.
-301;The beaches in Bali are known for their golden sands. ; Pantai-pantai di Bali terkenal dengan pasir emasnya.
-302;The book was written by a famous author. ; Buku itu ditulis oleh seorang penulis terkenal.
-303;The cake was baked by my mom. ; Kue itu dipanggang oleh ibu saya.
-304;The cake was baked by my mom. ; Kue itu dipanggang oleh ibu saya.
-305;The cake will be eaten by the kids. ; Kue itu akan dimakan oleh anak-anak.
-306;The cat chased the mouse. ; Kucing mengejar tikus itu.
-307;The children are cleaning their rooms as part of their chores. ; Anak-anak membersihkan kamarnya sebagai bagian dari tugas mereka.
-308;The company's profits have been declining this year. ; Laba perusahaan telah menurun tahun ini.
-309;The company's revenue increased last quarter. ; Pendapatan perusahaan meningkat pada kuartal lalu.
-310;The company's stock price is higher than last year. ; Harga saham perusahaan lebih tinggi dibandingkan tahun lalu.
-311;The cookies were eaten by the children. ; Kue-kue itu dimakan oleh anak-anak.
-312;The correlation analysis reveals interesting relationships. ; Analisis korelasi mengungkapkan hubungan-hubungan menarik.
-313;The data analysis process includes data exploration and visualization. ; Proses analisis data mencakup eksplorasi dan visualisasi data.
-314;The data analysis report will be ready for the meeting. ; Laporan analisis data akan siap untuk pertemuan.
-315;The data analyst team collaborates with the data engineering team. ; Tim analis data bekerja sama dengan tim teknik data.
-316;The data analyst team works closely with the data science team. ; Tim analis data bekerja erat dengan tim ilmu data.
-317;The data analyst will present findings using data charts and graphs. ; Analis data akan menyajikan temuan dengan menggunakan grafik dan diagram data.
-318;The data analyst will provide insights for decision-makers. ; Analis data akan memberikan wawasan bagi para pengambil keputusan.
-319;The data analyst's role is crucial for informed decision-making. ; Peran analis data sangat penting untuk pengambilan keputusan yang terinformasi.
-320;The data mining process uncovers hidden insights. ; Proses data mining mengungkap wawasan-wawasan yang tersembunyi.
-321;The data set includes time-series data for trend analysis. ; Dataset ini mencakup data deret waktu untuk analisis tren.
-322;The data set needs to be cleaned and normalized. ; Dataset ini perlu dibersihkan dan dinormalisasi.
-323;The data set was collected from various sources. ; Dataset ini dikumpulkan dari berbagai sumber.
-324;The data set was collected using surveys and questionnaires. ; Dataset ini dikumpulkan melalui survei dan kuesioner.
-325;The data visualization helps us understand the patterns. ; Visualisasi data membantu kita memahami pola-pola.
-326;The data warehouse stores historical data for analysis. ; Gudang data menyimpan data historis untuk analisis.
-327;The data-driven approach has improved our decision-making. ; Pendekatan berbasis data telah meningkatkan pengambilan keputusan kami.
-328;The dataset contains a lot of valuable information. ; Dataset ini berisi banyak informasi berharga.
-329;The dataset contains both qualitative and quantitative data. ; Dataset ini mengandung data kualitatif dan kuantitatif.
-330;The decision tree algorithm is used for both classification and regression. ; Algoritma pohon keputusan digunakan untuk klasifikasi maupun regresi.
-331;The dishes in the sink need to be washed. ; Piring di wastafel perlu dicuci.
-332;The flowers were planted by the gardener. ; Bunga-bunga itu ditanam oleh tukang kebun.
-333;The garden beds need weeding and mulching. ; Tempat tidur taman perlu dicabut rumput dan dimulsa.
-334;The garden needs a new fence to keep out pests. ; Taman perlu pagar baru untuk mengusir hama.
-335;The Gili Islands are perfect for a relaxing getaway. ; Kepulauan Gili sempurna untuk liburan santai.
-336;The Indonesian archipelago consists of over 17,000 islands. ; Kepulauan Indonesia terdiri dari lebih dari 17.000 pulau.
-337;The Indonesian currency is the Rupiah. ; Mata uang Indonesia adalah Rupiah.
-338;The Indonesian flag is red and white. ; Bendera Indonesia berwarna merah dan putih.
-339;The Indonesian language is Bahasa Indonesia. ; Bahasa Indonesia adalah bahasa resmi di Indonesia.
-340;The Indonesian people are known for their warm hospitality. ; Orang Indonesia terkenal dengan keramahan mereka.
-341;The Indonesian people celebrate various cultural festivals. ; Orang Indonesia merayakan berbagai festival budaya.
-342;The kids are helping to set the table for dinner. ; Anak-anak membantu menyusun meja untuk makan malam.
-343;The kids are helping to sweep the garage floor. ; Anak-anak membantu menyapu lantai garasi.
-344;The kids are helping with gardening in the backyard. ; Anak-anak membantu berkebun di halaman belakang.
-345;The kids are raking leaves in the backyard. ; Anak-anak sedang merapihkan daun di halaman belakang.
-346;The lawn needs mowing every two weeks. ; Rumput perlu dipotong setiap dua minggu.
-347;The letter has already been sent. ; Surat sudah dikirim.
-348;The letter was mailed by John yesterday. ; Surat itu dikirim oleh John kemarin.
-349;The letter will be delivered by the postman. ; Surat itu akan disampaikan oleh tukang pos.
-350;The meeting adjourns, and thank you for your participation. ; Pertemuan ditutup, dan terima kasih atas partisipasinya.
-351;The meeting agenda has been sent to all participants. ; Agenda pertemuan telah dikirimkan kepada semua peserta.
-352;The meeting atmosphere should encourage open communication. ; Atmosfer pertemuan seharusnya mendorong komunikasi yang terbuka.
-353;The meeting duration will be one hour. ; Durasi pertemuan akan satu jam.
-354;The meeting facilitator will guide us through the agenda. ; Fasilitator pertemuan akan membimbing kita melalui agenda.
-355;The meeting location has been changed to the larger room. ; Lokasi pertemuan telah diubah ke ruang yang lebih besar.
-356;The meeting materials have been distributed to all attendees. ; Materi pertemuan telah didistribusikan kepada semua peserta.
-357;The meeting minutes will be documented and shared later. ; Catatan pertemuan akan didokumentasikan dan dibagikan nanti.
-358;The meeting notes will be summarized and sent out to all. ; Catatan pertemuan akan diringkas dan dikirimkan kepada semua.
-359;The meeting organizer will keep the discussion on track. ; Penyelenggara pertemuan akan menjaga agar diskusi berjalan sesuai rencana.
-360;The meeting participants include representatives from various departments. ; Peserta pertemuan meliputi perwakilan dari berbagai departemen.
-361;The meeting room is currently occupied. ; Ruang rapat saat ini sedang digunakan.
-362;The meeting room is equipped with a projector for presentations. ; Ruang rapat dilengkapi dengan proyektor untuk presentasi.
-363;The meeting will begin with a brief introduction of the attendees. ; Pertemuan akan dimulai dengan pengenalan singkat peserta.
-364;The meeting will conclude with a summary of action items. ; Pertemuan akan ditutup dengan ringkasan tindakan yang perlu diambil.
-365;The meeting will focus on key objectives and outcomes. ; Pertemuan akan berfokus pada tujuan dan hasil utama.
-366;The movie was directed by Steven Spielberg. ; Film itu disutradarai oleh Steven Spielberg.
-367;The music at the concert was very loud. ; Musik di konser itu sangat keras.
-368;The new employee will be trained by the HR department. ; Pegawai baru akan dilatih oleh departemen SDM.
-369;The new phone is more expensive than the old one. ; Ponsel baru lebih mahal daripada yang lama.
-370;The new project was assigned to our team. ; Proyek baru telah diberikan kepada tim kami.
-371;The new restaurant is busier than the old one. ; Restoran baru lebih ramai daripada yang lama.
-372;The new restaurant serves delicious food. ; Restoran baru itu menyajikan makanan yang lezat.
-373;The new software will be installed by the IT team. ; Perangkat lunak baru akan diinstal oleh tim IT.
-374;The office building has a beautiful view of the city. ; Gedung kantor memiliki pemandangan indah kota.
-375;The office coffee machine is broken. ; Mesin kopi kantor rusak.
-376;The office email system is down for maintenance. ; Sistem email kantor sedang dalam perbaikan.
-377;The office hours are from 9 AM to 5 PM. ; Jam kerja kantor dari jam 9 pagi hingga 5 sore.
-378;The office manager is in a meeting right now. ; Manajer kantor sedang dalam rapat saat ini.
-379;The office printer is out of paper. ; Printer kantor kehabisan kertas.
-380;The outdoor furniture needs to be cleaned and oiled. ; Mebel luar perlu dibersihkan dan diolesi minyak.
-381;The painting was created by a famous artist. ; Lukisan itu diciptakan oleh seorang seniman terkenal.
-382;The presentation will start with an overview of the project. ; Presentasi akan dimulai dengan gambaran umum proyek.
-383;The project was completed ahead of schedule. ; Proyek tersebut selesai lebih cepat dari jadwal.
-384;The quarterly reports will be distributed next week. ; Laporan triwulanan akan didistribusikan minggu depan.
-385;The random forest algorithm is an ensemble of decision trees. ; Algoritma hutan acak adalah gabungan dari pohon keputusan.
-386;The recurrent neural network is suitable for sequential data. ; Jaringan saraf rekuren cocok untuk data berurutan.
-387;The regression analysis shows a strong correlation between variables. ; Analisis regresi menunjukkan korelasi kuat antara variabel-variabel.
-388;The report has already been submitted. ; Laporan sudah diajukan.
-389;The report was reviewed by the manager. ; Laporan tersebut ditinjau oleh manajer.
-390;The statistical tests will help us validate our hypotheses. ; Uji statistik akan membantu kita memvalidasi hipotesis kita.
-391;The sun rises in the east. ; Matahari terbit di timur.
-392;The sun sets in the west. ; Matahari terbenam di barat.
-393;The support vector machine is a powerful classification algorithm. ; Mesin vektor pendukung adalah algoritma klasifikasi yang kuat.
-394;The team is discussing the project deadline. ; Tim sedang membahas batas waktu proyek.
-395;The team leader will provide an update on our progress. ; Pemimpin tim akan memberikan pembaruan tentang kemajuan kita.
-396;The team will gather in the conference room at 3 PM. ; Tim akan berkumpul di ruang konferensi pukul 3 sore.
-397;The trend in the data suggests a positive growth pattern. ; Tren dalam data menunjukkan pola pertumbuhan positif.
-398;The windows need cleaning to let in more sunlight. ; Jendela perlu dibersihkan agar lebih banyak sinar matahari masuk.
-399;The windows need new curtains for privacy. ; Jendela perlu tirai baru untuk privasi.
-400;They always eat dinner together. ; Mereka selalu makan malam bersama.
-401;They are currently renovating their house. ; Mereka saat ini sedang merenovasi rumah mereka.
-402;They have been friends for years. ; Mereka telah berteman selama bertahun-tahun.
-403;They have been hiking in the mountains. ; Mereka telah melakukan pendakian di pegunungan.
-404;They have been traveling the world. ; Mereka telah melakukan perjalanan keliling dunia.
-405;They have been waiting for hours. ; Mereka telah menunggu selama berjam-jam.
-406;They will visit the museum tomorrow. ; Mereka akan mengunjungi museum besok.
-407;Transfer learning allows us to reuse knowledge from one task to another. ; Transfer learning memungkinkan kita untuk menggunakan kembali pengetahuan dari satu tugas ke tugas lain.
-408;Unsupervised learning can discover hidden patterns in data. ; Pembelajaran tak terawasi dapat menemukan pola-pola tersembunyi dalam data.
-409;Use setbacks as opportunities for growth and learning. ; Gunakan kemunduran sebagai peluang untuk pertumbuhan dan pembelajaran.
-410;Visualize your success to inspire and drive you. ; Visualisasikan kesuksesan Anda untuk menginspirasi dan mendorong diri Anda.
-411;Wayang kulit is a traditional Indonesian puppet show. ; Wayang kulit adalah pertunjukan boneka tradisional Indonesia.
-412;We actively participate in community events. ; Kami secara aktif berpartisipasi dalam acara-acara komunitas.
-413;We apply dimensionality reduction techniques for high-dimensional data. ; Kami menerapkan teknik reduksi dimensi untuk data berdimensi tinggi.
-414;We apply natural language processing for text classification. ; Kami menerapkan pemrosesan bahasa alami untuk klasifikasi teks.
-415;We are building a recommendation system using matrix factorization. ; Kami sedang membangun sistem rekomendasi menggunakan faktorisasi matriks.
-416;We are going to the beach next week. ; Kami akan pergi ke pantai minggu depan.
-417;We are implementing a natural language processing model. ; Kami sedang mengimplementasikan model pemrosesan bahasa alami.
-418;We are planning to hire interns for the summer. ; Kami berencana untuk merekrut magang untuk musim panas.
-419;We are using machine learning algorithms for predictive analytics. ; Kami menggunakan algoritma machine learning untuk analitika prediktif.
-420;We are working on a deep learning project for image recognition. ; Kami sedang mengerjakan proyek deep learning untuk pengenalan gambar.
-421;We enjoy going to the movies. ; Kami menikmati pergi ke bioskop.
-422;We enjoy playing soccer on the weekends. ; Kami menikmati bermain sepak bola di akhir pekan.
-423;We evaluate the model's performance using various metrics. ; Kami mengevaluasi kinerja model menggunakan berbagai metrik.
-424;We have a tight schedule, so let's stay on track. ; Jadwal kita padat, jadi mari tetap pada jalurnya.
-425;We have already finished the project. ; Kami sudah menyelesaikan proyek tersebut.
-426;We have been collecting data for several months now. ; Kami telah mengumpulkan data selama beberapa bulan sekarang.
-427;We have collected customer feedback data for analysis. ; Kami telah mengumpulkan data umpan balik pelanggan untuk analisis.
-428;We implement deep reinforcement learning for game agents. ; Kami mengimplementasikan pembelajaran penguatan yang mendalam untuk agen permainan.
-429;We love watching movies on Friday nights. ; Kami suka menonton film pada malam Jumat.
-430;We need labeled data for supervised learning tasks. ; Kami membutuhkan data berlabel untuk tugas-tugas pembelajaran terawasi.
-431;We need to conduct A/B testing to optimize our website. ; Kita perlu melakukan uji A/B untuk mengoptimalkan situs web kita.
-432;We need to identify outliers in the dataset. ; Kita perlu mengidentifikasi data-data outlier dalam dataset.
-433;We need to make decisions on the budget allocation. ; Kita perlu membuat keputusan tentang alokasi anggaran.
-434;We need to order more office supplies. ; Kita perlu memesan lebih banyak perlengkapan kantor.
-435;We need to purchase new office furniture. ; Kita perlu membeli perabotan kantor baru.
-436;We often have conference calls with international clients. ; Kami sering melakukan panggilan konferensi dengan klien internasional.
-437;We often have pizza for dinner. ; Kami sering makan pizza untuk makan malam.
-438;We often need to handle large volumes of data in our analysis. ; Seringkali kita harus menangani volume data yang besar dalam analisis kita.
-439;We often need to handle missing data in our analysis. ; Seringkali kita harus menangani data yang hilang dalam analisis kita.
-440;We often use data visualization tools like Tableau and Power BI. ; Seringkali kita menggunakan alat visualisasi data seperti Tableau dan Power BI.
-441;We use cross-validation to evaluate our machine learning models. ; Kami menggunakan validasi silang untuk mengevaluasi model-model machine learning kami.
-442;We use gradient boosting for ensemble learning. ; Kami menggunakan gradient boosting untuk pembelajaran ensemble.
-443;We use K-means clustering for customer segmentation. ; Kami menggunakan pengelompokan K-means untuk segmentasi pelanggan.
-444;We use supervised learning to train our models. ; Kami menggunakan pembelajaran terawasi untuk melatih model-model kami.
-445;We use time series data for forecasting future trends. ; Kami menggunakan data deret waktu untuk meramalkan tren masa depan.
-446;We watched a beautiful sunset at the beach. ; Kami menonton matahari terbenam yang indah di pantai.
-447;We watched a movie last night. ; Kami menonton film tadi malam.
-448;We will apply machine learning models for predictive analytics. ; Kami akan menerapkan model-machine learning untuk analitika prediktif.
-449;We will celebrate the company's anniversary next month. ; Kami akan merayakan ulang tahun perusahaan bulan depan.
-450;We will complete the report by the end of the week. ; Kami akan menyelesaikan laporan itu hingga akhir minggu.
-451;We will create data dashboards for real-time monitoring. ; Kami akan membuat dasbor data untuk pemantauan waktu nyata.
-452;We will have a picnic in the park on Sunday. ; Kami akan berpiknik di taman pada hari Minggu.
-453;We will implement a recommendation system using collaborative filtering. ; Kami akan mengimplementasikan sistem rekomendasi menggunakan filtrasi kolaboratif.
-454;We will install a new light fixture in the dining room. ; Kami akan menginstal perangkat pencahayaan baru di ruang makan.
-455;We will perform clustering analysis to group similar data points. ; Kami akan melakukan analisis pengelompokan untuk mengelompokkan data-data serupa.
-456;We will repaint the front door for a fresh appearance. ; Kami akan mengecat ulang pintu depan untuk tampilan yang segar.
-457;We will replace the old appliances with energy-efficient ones. ; Kami akan mengganti peralatan lama dengan yang hemat energi.
-458;We will replace the old carpet with hardwood flooring. ; Kami akan mengganti karpet lama dengan lantai kayu.
-459;We will set up a compost bin for kitchen waste. ; Kami akan menyiapkan bak sampah kompos untuk limbah dapur.
-460;We will use statistical methods to interpret the data. ; Kami akan menggunakan metode statistik untuk menginterpretasikan data.
-461;We will visualize the data using bar charts and scatter plots. ; Kami akan memvisualisasikan data menggunakan diagram batang dan scatter plot.
-462;We'll clean the gutters to ensure proper drainage. ; Kami akan membersihkan talang air untuk memastikan aliran yang baik.
-463;We'll clean the house from top to bottom this weekend. ; Kita akan membersihkan rumah dari atas ke bawah akhir pekan ini.
-464;We'll need to allocate tasks and responsibilities. ; Kita perlu mengalokasikan tugas dan tanggung jawab.
-465;We'll need to ensure that all participants are heard. ; Kita perlu memastikan bahwa semua peserta didengar.
-466;We'll need to ensure that the meeting stays on schedule. ; Kita perlu memastikan pertemuan tetap berjalan sesuai jadwal.
-467;We'll need to order lunch for the team meeting. ; Kita perlu memesan makan siang untuk pertemuan tim.
-468;We'll need to prioritize the key action items. ; Kita perlu memprioritaskan tindakan-tindakan utama.
-469;We'll need to review the action items from the last meeting. ; Kita perlu meninjau tindakan yang diambil dari pertemuan terakhir.
-470;We'll need to review the meeting minutes from the previous session. ; Kita perlu meninjau catatan pertemuan dari sesi sebelumnya.
-471;We'll need to stay within the allocated time for each topic. ; Kita perlu tetap dalam waktu yang dialokasikan untuk setiap topik.
-472;We'll organize a garage sale to declutter. ; Kami akan mengadakan penjualan garasi untuk merapikan.
-473;We'll paint the living room walls a new color. ; Kita akan mengecat dinding ruang tamu dengan warna baru.
-474;We'll rearrange the furniture in the living room for a fresh look. ; Kami akan merombak perabotan di ruang tamu untuk tampilan yang baru.
-475;We'll repair the broken fence in the backyard. ; Kami akan memperbaiki pagar yang rusak di halaman belakang.
-476;We'll scrub the kitchen countertops to make them shine. ; Kami akan menggosok permukaan dapur untuk membuatnya bersinar.
-477;We're here to align our strategies for the upcoming quarter. ; Kita ada di sini untuk menyelaraskan strategi kita untuk kuartal mendatang.
-478;We're here to brainstorm ideas for the upcoming project. ; Kita ada di sini untuk menghasilkan ide-ide untuk proyek mendatang.
-479;We're here to collaborate and find solutions as a team. ; Kita ada di sini untuk bekerja sama dan menemukan solusi sebagai tim.
-480;We're here to finalize the project timeline and milestones. ; Kita ada di sini untuk menyelesaikan jadwal proyek dan tonggak pencapaian.
-481;We're here to seek input from all team members. ; Kita ada di sini untuk mencari masukan dari semua anggota tim.
-482;We're planning to hire a new employee next month. ; Kami berencana untuk merekrut pegawai baru bulan depan.
-483;We're planning to redesign the office layout. ; Kami berencana untuk merancang ulang tata letak kantor.
-484;We're using transfer learning to leverage pre-trained models. ; Kami menggunakan transfer learning untuk memanfaatkan model-model yang sudah terlatih.
-485;You can climb to the top of Mount Rinjani. ; Anda dapat mendaki ke puncak Gunung Rinjani.
-486;You can enjoy a cup of Indonesian coffee at a local warung. ; Anda dapat menikmati secangkir kopi Indonesia di warung lokal.
-487;You can experience the beauty of the sunrise at Mount Merapi. ; Anda dapat merasakan keindahan matahari terbit di Gunung Merapi.
-488;You can explore the cultural richness of Yogyakarta. ; Anda dapat menjelajahi kekayaan budaya Yogyakarta.
-489;You can explore the rich marine biodiversity in Cenderawasih Bay. ; Anda dapat menjelajahi keanekaragaman hayati laut yang kaya di Teluk Cenderawasih.
-490;You can explore the traditional villages in Flores. ; Anda dapat menjelajahi desa-desa tradisional di Flores.
-491;You can explore the underwater world in Wakatobi. ; Anda dapat menjelajahi dunia bawah air di Wakatobi.
-492;You can go trekking in the lush jungles of Sumatra. ; Anda dapat melakukan trekking di hutan lebat Sumatra.
-493;You can go white-water rafting in Ubud. ; Anda dapat melakukan arung jeram di Ubud.
-494;You can take a traditional wooden boat to explore islands. ; Anda dapat naik perahu kayu tradisional untuk menjelajahi pulau-pulau.
-495;You can visit the historic site of Prambanan Temple. ; Anda dapat mengunjungi situs bersejarah Candi Prambanan.
-496;You can visit traditional markets for unique souvenirs. ; Anda dapat mengunjungi pasar tradisional untuk oleh-oleh yang unik.
-497;You can witness the beauty of Lake Toba in Sumatra. ; Anda dapat menyaksikan keindahan Danau Toba di Sumatra.
-498;You can witness the beauty of rice terraces in Bali. ; Anda dapat menyaksikan keindahan sawah terasering di Bali.
-499;You can witness the Toraja houses with boat-shaped roofs. ; Anda dapat menyaksikan rumah-rumah Toraja dengan atap berbentuk perahu.
-500;You can witness traditional Balinese dance performances. ; Anda dapat menyaksikan pertunjukan tari tradisional Bali.
+1;Can you explain the new software to the team?;Bisakah Anda menjelaskan perangkat lunak baru tersebut kepada tim?
+2;Can you explain the process of photosynthesis?;Bisakah Anda menjelaskan proses fotosintesis?
+3;Can you recommend any good travel destinations for families?;Bisakah Anda merekomendasikan tujuan wisata yang bagus untuk keluarga?
+4;Can you share your experience in dealing with a car accident?;Bisakah Anda berbagi pengalaman Anda dalam menangani kecelakaan mobil?
+5;Comparatively, a beach vacation is more relaxing than a city tour.;Secara perbandingan, liburan di pantai lebih santai dibandingkan tur ke kota.
+6;Comparatively, being prepared for emergencies is more important than reacting later.;Secara perbandingan, menjadi siap untuk keadaan darurat lebih penting daripada bereaksi nanti.
+7;Comparatively, science is more challenging than literature.;Secara perbandingan, ilmu pengetahuan lebih menantang daripada sastra.
+8;Comparatively, working in a team is more productive than working alone.;Secara perbandingan, bekerja dalam tim lebih produktif daripada bekerja sendiri.
+9;Currently, the students are preparing for the upcoming exams.;Saat ini, para siswa sedang mempersiapkan diri untuk ujian yang akan datang.
+10;Currently, we are exploring options for a winter getaway.;Saat ini, kami sedang mengeksplorasi opsi untuk liburan musim dingin.
+11;Did anyone contact the authorities about the natural disaster?;Apakah ada yang menghubungi pihak berwenang tentang bencana alam?
+12;Did you attend the workshop on effective communication?;Apakah Anda mengikuti workshop tentang komunikasi efektif?
+13;Did you visit any historical sites during your last trip?;Apakah Anda mengunjungi situs-situs bersejarah selama perjalanan terakhir Anda?
+14;Do you enjoy your school activities?;Apakah Anda menikmati kegiatan sekolah Anda?
+15;Emergency services were alerted by the loud siren.;Layanan darurat diaktifkan oleh sirine yang keras.
+16;Have you booked your flight for the summer holiday?;Apakah Anda sudah memesan penerbangan untuk liburan musim panas?
+17;Have you ever been involved in a search and rescue operation?;Apakah Anda pernah terlibat dalam operasi pencarian dan penyelamatan?
+18;Have you ever been to the school's annual carnival?;Apakah Anda pernah menghadiri karnaval tahunan sekolah?
+19;Have you ever met fellow travelers on your journeys?;Apakah Anda pernah bertemu dengan sesama pelancong selama perjalanan Anda?
+20;Have you ever met the company's CEO?;Apakah Anda pernah bertemu dengan CEO perusahaan?
+21;Have you ever met the school principal?;Apakah Anda pernah bertemu dengan kepala sekolah?
+22;Have you ever participated in a disaster preparedness drill?;Apakah Anda pernah berpartisipasi dalam latihan kesiapsiagaan bencana?
+23;Have you ever participated in a fire drill at your workplace?;Apakah Anda pernah berpartisipasi dalam latihan pemadam kebakaran di tempat kerja?
+24;Have you ever participated in a team-building exercise at work?;Apakah Anda pernah berpartisipasi dalam latihan pembentukan tim di tempat kerja?
+25;Have you ever tried local cuisine while on vacation?;Apakah Anda pernah mencoba masakan lokal saat berlibur?
+26;Have you ever visited a theme park during your vacations?;Apakah Anda pernah mengunjungi taman hiburan selama liburan Anda?
+27;Have you ever visited the company's headquarters?;Apakah Anda pernah mengunjungi markas besar perusahaan?
+28;Have you ever visited the school museum?;Apakah Anda pernah mengunjungi museum sekolah?
+29;Have you ever volunteered for disaster relief efforts?;Apakah Anda pernah menjadi relawan untuk upaya bantuan bencana?
+30;Have you scheduled a meeting with the client?;Apakah Anda sudah membuat jadwal pertemuan dengan klien?
+31;He is as adventurous in trying new foods as he is in exploring new places.;Dia sama berani mencoba makanan baru seperti halnya menjelajahi tempat-tempat baru.
+32;He is as committed to his job as he is to his personal projects.;Dia sama berkomitmen pada pekerjaannya seperti halnya pada proyek-proyek pribadinya.
+33;He is as dedicated to his studies as he is to sports.;Dia sama berdedikasi pada studinya seperti halnya pada olahraga.
+34;He is as reliable in crisis situations as he is in daily routines.;Dia sama dapat diandalkan dalam situasi krisis seperti halnya dalam rutinitas harian.
+35;I attended a cultural festival during my holiday in Asia.;Saya menghadiri festival budaya selama liburan saya di Asia.
+36;I attended a seminar on environmental awareness last month.;Saya menghadiri seminar tentang kesadaran lingkungan bulan lalu.
+37;I called for help when I witnessed the accident.;Saya memanggil bantuan ketika saya menyaksikan kecelakaan.
+38;I complete my tasks before the deadline at the office.;Saya menyelesaikan tugas-tugas saya sebelum batas waktu di kantor.
+39;I enjoy relaxing on the beach during my vacations.;Saya menikmati bersantai di pantai selama liburan saya.
+40;I participated in a community-based disaster response exercise last month.;Saya berpartisipasi dalam latihan tanggap bencana berbasis masyarakat bulan lalu.
+41;I participated in a leadership training program last month.;Saya berpartisipasi dalam program pelatihan kepemimpinan bulan lalu.
+42;I study English every day for school.;Saya belajar Bahasa Inggris setiap hari untuk sekolah.
+43;I will assist the injured until medical help arrives.;Saya akan membantu yang terluka sampai bantuan medis tiba.
+44;I will call you after I finish my class.;Saya akan menelepon Anda setelah saya selesai kelas.
+45;I will call you after I finish my meeting.;Saya akan menelepon Anda setelah saya selesai rapat.
+46;I will call you if there is an emergency situation in our area.;Saya akan menelepon Anda jika ada situasi darurat di daerah kita.
+47;I will call you once I arrive at the resort.;Saya akan menelepon Anda begitu saya tiba di resor.
+48;I will capture stunning photos during my trip to the mountains.;Saya akan mengambil foto-foto menakjubkan selama perjalanan ke pegunungan.
+49;I will complete my assignment by tomorrow.;Saya akan menyelesaikan tugas saya sampai besok.
+50;I will finish the presentation by the end of the day.;Saya akan menyelesaikan presentasi sampai akhir hari.
+51;If it rains, the outdoor event will be postponed.;Jika hujan, acara di luar akan ditunda.
+52;If she attends the first aid training, she will be better prepared for emergencies.;Jika dia mengikuti pelatihan pertolongan pertama, dia akan lebih siap untuk keadaan darurat.
+53;If she attends the workshop, she will gain valuable skills.;Jika dia mengikuti workshop, dia akan mendapatkan keterampilan berharga.
+54;If she learns CPR, she can save lives in emergency situations.;Jika dia belajar CPR, dia dapat menyelamatkan nyawa dalam situasi darurat.
+55;If she learns some basic phrases, she can communicate with locals.;Jika dia mempelajari beberapa frasa dasar, dia dapat berkomunikasi dengan penduduk setempat.
+56;If she studies hard, she will achieve good grades.;Jika dia belajar keras, dia akan mencapai nilai yang baik.
+57;If she studies regularly, she will understand the concepts better.;Jika dia belajar secara teratur, dia akan memahami konsep-konsep dengan lebih baik.
+58;If she travels during the off-season, she can save money.;Jika dia bepergian selama musim sepi, dia dapat menghemat uang.
+59;If she works overtime, she will receive extra compensation.;Jika dia bekerja lembur, dia akan menerima kompensasi tambahan.
+60;If the budget is approved, we can proceed with the project.;Jika anggaran disetujui, kita dapat melanjutkan dengan proyek.
+61;If the situation worsens, we will implement the emergency evacuation plan.;Jika situasinya memburuk, kita akan menerapkan rencana evakuasi darurat.
+62;If the weather is favorable, we will have a picnic in the park.;Jika cuacanya bersahabat, kita akan piknik di taman.
+63;If you book in advance, you may get discounts on accommodation.;Jika Anda memesan dengan lebih awal, Anda mungkin mendapatkan diskon untuk akomodasi.
+64;If you dial 911, the emergency response team will arrive promptly.;Jika Anda menekan nomor 911, tim tanggap darurat akan segera tiba.
+65;If you don't attend the meeting, you may miss important updates.;Jika Anda tidak menghadiri pertemuan, Anda mungkin melewatkan pembaruan penting.
+66;If you don't have a first aid kit, you may need to improvise in an emergency.;Jika Anda tidak memiliki kit pertolongan pertama, Anda mungkin perlu improvisasi dalam keadaan darurat.
+67;If you don't plan ahead, your vacation might be less enjoyable.;Jika Anda tidak merencanakan dengan baik, liburan Anda mungkin kurang menyenangkan.
+68;If you don't study, you won't pass the test.;Jika Anda tidak belajar, Anda tidak akan lulus ujian.
+69;If you finish early, you can join the club meeting.;Jika Anda selesai lebih awal, Anda dapat bergabung dengan pertemuan klub.
+70;If you finish your tasks early, you can leave the office on time.;Jika Anda menyelesaikan tugas-tugas Anda lebih awal, Anda dapat meninggalkan kantor tepat waktu.
+71;If you pack light, you'll have more flexibility during your trip.;Jika Anda packing ringan, Anda akan memiliki lebih banyak fleksibilitas selama perjalanan Anda.
+72;If you see someone injured, call for medical help immediately.;Jika Anda melihat seseorang terluka, segera panggil bantuan medis.
+73;If you submit the proposal on time, you'll increase your chances of approval.;Jika Anda mengajukan proposal tepat waktu, Anda akan meningkatkan peluang persetujuan.
+74;If you work hard, you will excel in your studies.;Jika Anda bekerja keras, Anda akan berprestasi dalam studi Anda.
+75;In the future, I hope to go on a cruise to exotic islands.;Di masa depan, saya berharap bisa pergi berlayar ke pulau-pulau eksotis.
+76;In the future, I plan to join the debate club.;Di masa depan, saya berencana untuk bergabung dengan klub debat.
+77;In the future, we plan to conduct more safety workshops in the community.;Di masa depan, kami berencana untuk menyelenggarakan lebih banyak lokakarya keamanan di masyarakat.
+78;In the future, we plan to expand our client base.;Di masa depan, kami berencana untuk memperluas basis klien kami.
+79;Is there a cafeteria in your office building?;Apakah ada kafetaria di gedung kantor Anda?
+80;Is there a cafeteria in your school?;Apakah ada kafetaria di sekolah Anda?
+81;Is there a designated meeting point for emergencies in your neighborhood?;Apakah ada titik pertemuan yang ditetapkan untuk keadaan darurat di lingkungan Anda?
+82;Is there a travel agency in your neighborhood?;Apakah ada agen perjalanan di lingkungan Anda?
+83;Is your brother involved in any extracurricular activities?;Apakah saudara laki-laki Anda terlibat dalam kegiatan ekstrakurikuler?
+84;Last month, our community conducted a flood evacuation exercise.;Bulan lalu, komunitas kami melakukan latihan evakuasi banjir.
+85;Last month, we organized a successful team-building event.;Bulan lalu, kami menyelenggarakan acara membangun tim yang sukses.
+86;Last semester, I achieved a perfect GPA.;Semester lalu, saya mencapai IPK sempurna.
+87;Last summer, we discovered hidden gems in a quaint village.;Musim panas lalu, kami menemukan permata tersembunyi di desa yang indah.
+88;Last week, our community experienced a severe flood.;Minggu lalu, komunitas kami mengalami banjir parah.
+89;Last year, I participated in a science fair.;Tahun lalu, saya berpartisipasi dalam pameran sains.
+90;Last year, the company achieved a record profit.;Tahun lalu, perusahaan mencapai keuntungan rekor.
+91;Last year, we visited Europe and explored several countries.;Tahun lalu, kami mengunjungi Eropa dan menjelajahi beberapa negara.
+92;Learning a new language is as challenging as solving a puzzle.;Belajar bahasa baru sama sulitnya dengan memecahkan teka-teki.
+93;Mathematics is taught by Mrs. Smith.;Matematika diajarkan oleh Ibu Smith.
+94;My colleague prefers working in the morning rather than the evening.;Rekan kerja saya lebih suka bekerja di pagi hari daripada di malam hari.
+95;My friend prefers chemistry over physics.;Teman saya lebih suka kimia daripada fisika.
+96;My friend prefers staying in cozy cabins rather than luxury resorts.;Teman saya lebih suka menginap di kabin yang nyaman daripada di resor mewah.
+97;My neighbor prefers offering assistance rather than waiting for help.;Tetangga saya lebih suka menawarkan bantuan daripada menunggu bantuan.
+98;Now, we are assessing the damage caused by the hurricane.;Saat ini, kami sedang menilai kerusakan yang disebabkan oleh badai.
+99;Our company achieved its quarterly goals last year.;Perusahaan kami mencapai tujuan kuartalnya tahun lalu.
+100;Our family traditionally spends the holidays together.;Keluarga kami tradisionalnya menghabiskan liburan bersama-sama.
+101;Our team managed the evacuation process efficiently during the earthquake.;Tim kami mengelola proses evakuasi dengan efisien selama gempa bumi.
+102;Presently, the team is discussing the new marketing strategy.;Saat ini, tim sedang membahas strategi pemasaran baru.
+103;Seeking assistance during a crisis is as crucial as staying calm.;Mencari bantuan selama krisis sama pentingnya dengan tetap tenang.
+104;She is currently attending an art class.;Saat ini, dia mengikuti kelas seni.
+105;She is currently helping injured individuals at the accident site.;Saat ini, dia membantu individu yang terluka di lokasi kecelakaan.
+106;She is currently planning a road trip across the country.;Saat ini, dia merencanakan perjalanan darat lintas negara.
+107;She is currently working on a new project.;Saat ini, dia sedang mengerjakan proyek baru.
+108;The affected families are eagerly awaiting assistance from relief agencies.;Keluarga yang terkena dampak dengan penuh semangat menantikan bantuan dari lembaga bantuan.
+109;The annual review will take place next month.;Ulasan tahunan akan berlangsung bulan depan.
+110;The annual summer festival will take place next month.;Festival musim panas tahunan akan berlangsung bulan depan.
+111;The art room is used for painting and sculpture classes.;Ruang seni digunakan untuk kelas melukis dan patung.
+112;The basketball team practices every afternoon.;Tim bola basket berlatih setiap sore.
+113;The beach cleanup project is being organized by the local community.;Proyek pembersihan pantai diorganisir oleh komunitas lokal.
+114;The biology experiment was conducted by the students.;Eksperimen biologi dilakukan oleh para siswa.
+115;The book was read by the entire class.;Buku itu dibaca oleh seluruh kelas.
+116;The conference room is reserved for important meetings.;Ruang konferensi dipesan untuk pertemuan penting.
+117;The cruise ship was christened in a grand ceremony.;Kapal pesiar diresmikan dalam upacara besar.
+118;The details about the earthquake were shared by the local authorities.;Rincian tentang gempa bumi dibagikan oleh pihak berwenang setempat.
+119;The disaster recovery plan will be updated by the end of the year.;Rencana pemulihan bencana akan diperbarui pada akhir tahun.
+120;The disaster relief fund is planning a fundraising event.;Dana bantuan bencana merencanakan acara penggalangan dana.
+121;The drama club is performing a play next Friday.;Klub drama akan melakukan sebuah pertunjukan Jumat depan.
+122;The eco-friendly resort is planning a tree-planting event.;Resor ramah lingkungan merencanakan acara penanaman pohon.
+123;The email was sent by the manager.;Email itu dikirim oleh manajer.
+124;The emergency evacuation route is marked with clear signs.;Rute evakuasi darurat ditandai dengan tanda yang jelas.
+125;The emergency exit procedures were explained by the flight attendant.;Prosedur pintu darurat dijelaskan oleh pramugari.
+126;The emergency hotline is available for assistance around the clock.;Hotline darurat tersedia untuk bantuan sepanjang waktu.
+127;The emergency response team was praised for their quick action.;Tim tanggap darurat dipuji atas tindakan cepat mereka.
+128;The employees are eagerly awaiting the announcement.;Karyawan dengan penuh semangat menantikan pengumuman.
+129;The essay competition will take place next month.;Kompetisi esai akan berlangsung bulan depan.
+130;The foreign language course is offered twice a week.;Kursus bahasa asing ditawarkan dua kali seminggu.
+131;The geography quiz was challenging but interesting.;Kuis geografi menantang tapi menarik.
+132;The group is organizing a volunteer project in a foreign country.;Kelompok ini mengorganisir proyek sukarela di negara asing.
+133;The hiking trail was recommended by experienced trekkers.;Jalur hiking direkomendasikan oleh pendaki berpengalaman.
+134;The history project was completed by the group last night.;Proyek sejarah diselesaikan oleh kelompok tadi malam.
+135;The hotel reservation was confirmed by email.;Reservasi hotel dikonfirmasi melalui email.
+136;The hurricane preparedness checklist is more comprehensive than the tornado checklist.;Checklist kesiapsiagaan badai lebih komprehensif daripada checklist tornado.
+137;The injured individuals were comforted by the compassionate volunteers.;Individu yang terluka dihibur oleh sukarelawan yang penuh kasih.
+138;The injured person was carefully carried to safety by the rescue team.;Orang yang terluka dengan hati-hati dibawa ke tempat yang aman oleh tim penyelamat.
+139;The language immersion program is scheduled for next week.;Program imersi bahasa dijadwalkan untuk minggu depan.
+140;The library is open from 9 AM to 5 PM.;Perpustakaan buka dari pukul 9 pagi hingga 5 sore.
+141;The local hospital operates a 24-hour emergency room.;Rumah sakit lokal memiliki ruang gawat darurat 24 jam.
+142;The local market was explored by tourists from around the world.;Pasar lokal dijelajahi oleh wisatawan dari seluruh dunia.
+143;The marketing team brainstorms ideas every Friday.;Tim pemasaran mengadakan sesi pemikiran setiap Jumat.
+144;The music recital was enjoyed by everyone in the auditorium.;Recital musik dinikmati oleh semua orang di auditorium.
+145;The new computer lab was inaugurated by the principal.;Lab komputer baru diresmikan oleh kepala sekolah.
+146;The new office building was inaugurated with a ribbon-cutting ceremony.;Gedung kantor baru diresmikan dengan upacara pemotongan pita.
+147;The new policy was introduced by the CEO.;Kebijakan baru diperkenalkan oleh CEO.
+148;The new science lab was inaugurated with a ribbon-cutting ceremony.;Lab sains baru diresmikan dengan upacara pemotongan pita.
+149;The new software is more efficient than the old version.;Perangkat lunak baru lebih efisien daripada versi lama.
+150;The news about the landslide was reported by the local media.;Berita tentang tanah longsor dilaporkan oleh media lokal.
+151;The office opens at 8 AM and closes at 5 PM.;Kantor buka pukul 8 pagi dan tutup pukul 5 sore.
+152;The physics experiment was explained by the teacher.;Eksperimen fisika dijelaskan oleh guru.
+153;The postcard was sent by my sister from her vacation.;Kartu pos dikirim oleh saudara perempuan saya dari liburannya.
+154;The presentation was well-received by the clients.;Presentasi diterima dengan baik oleh klien.
+155;The project deadline was met by the entire team.;Batas waktu proyek terpenuhi oleh seluruh tim.
+156;The project details were explained by the project manager.;Rincian proyek dijelaskan oleh manajer proyek.
+157;The project was completed by the development team.;Proyek selesai oleh tim pengembangan.
+158;The quarterly report will be submitted by the finance department.;Laporan triwulanan akan diajukan oleh departemen keuangan.
+159;The relief supplies are being distributed by the humanitarian organizations.;Bantuan bencana didistribusikan oleh organisasi kemanusiaan.
+160;The report is being reviewed by the supervisor.;Laporan sedang direview oleh supervisor.
+161;The report will be submitted by the end of this week.;Laporan akan diajukan pada akhir minggu ini.
+162;The rescue team will be dispatched as soon as they receive the distress call.;Tim penyelamat akan dikirim segera setelah mereka menerima panggilan darurat.
+163;The sales team is preparing for a product launch next week.;Tim penjualan sedang mempersiapkan peluncuran produk minggu depan.
+164;The school's football team won the championship last season.;Tim sepak bola sekolah memenangkan kejuaraan musim lalu.
+165;The search and rescue team was commended for their bravery and dedication.;Tim pencarian dan penyelamatan dipuji atas keberanian dan dedikasinya.
+166;The snorkeling adventure was enjoyed by everyone on the island.;Petualangan snorkeling dinikmati oleh semua orang di pulau.
+167;The students are eagerly awaiting the results.;Para siswa dengan penuh semangat menantikan hasil.
+168;The students are participating in a charity event this weekend.;Para siswa berpartisipasi dalam acara amal akhir pekan ini.
+169;The team is collaborating on a challenging project this week.;Tim sedang bekerja sama dalam proyek yang menantang minggu ini.
+170;The tour details were explained by the tour guide.;Rincian tur dijelaskan oleh pemandu wisata.
+171;The training session is scheduled for next week.;Sesi pelatihan dijadwalkan untuk minggu depan.
+172;The travel agency opens at 9 AM and closes at 6 PM.;Agen perjalanan buka pukul 9 pagi dan tutup pukul 6 sore.
+173;The travel blog was written by a passionate globetrotter.;Blog perjalanan ditulis oleh seorang pelancong yang bersemangat.
+174;The travel insurance will be arranged before the trip.;Asuransi perjalanan akan diatur sebelum perjalanan.
+175;The travelers are eagerly awaiting the sunrise at the mountain peak.;Para pelancong dengan penuh semangat menantikan matahari terbit di puncak gunung.
+176;The tropical climate is more appealing than the arctic cold.;Iklim tropis lebih menarik daripada dingin Arktik.
+177;The vacation rental is equipped with modern amenities.;Sewa liburan dilengkapi dengan fasilitas modern.
+178;The victims were provided with temporary shelter by the relief organization.;Korban diberikan tempat perlindungan sementara oleh organisasi bantuan.
+179;Tomorrow, there will be a meeting for all club members.;Besok, akan ada pertemuan untuk semua anggota klub.
+180;Tomorrow, there will be a workshop on earthquake safety measures.;Besok, akan ada lokakarya tentang langkah-langkah keamanan gempa bumi.
+181;Tomorrow, there will be a workshop on time management.;Besok, akan ada lokakarya tentang manajemen waktu.
+182;Tomorrow, we will embark on a guided tour of the historic city.;Besok, kami akan memulai tur berpemandu di kota bersejarah.
+183;Traveling to new destinations is as exciting as it is educational.;Perjalanan ke destinasi baru sama seru dan edukatifnya.
+184;We will evacuate the area if the storm intensifies.;Kami akan mengungsikan daerah tersebut jika badai semakin intens.
+185;We will go camping in the mountains next weekend.;Kami akan berkemah di pegunungan akhir pekan depan.
+186;We will have a department meeting tomorrow.;Besok, akan ada pertemuan departemen.
+187;We will have a history exam next week.;Besok, akan ada ujian sejarah minggu depan.
+188;What is your favorite memory from your last holiday?;Apa kenangan favoritmu dari liburan terakhirmu?
+189;What is your favorite subject in school?;Apa mata pelajaran favoritmu di sekolah?
+190;What is your role in the neighborhood emergency response team?;Apa peranmu dalam tim tanggap darurat lingkungan?
+191;What is your role in the upcoming project?;Apa peranmu dalam proyek yang akan datang?
+192;What time did the authorities arrive at the scene of the accident?;Pukul berapa pihak berwenang tiba di lokasi kecelakaan?
+193;What time does the school bus arrive?;Jam berapa bis sekolah datang?
+194;What time does your flight depart for the tropical island?;Jam berapa penerbanganmu berangkat ke pulau tropis?
+195;What time is the office party scheduled for?;Jam berapa pesta kantor dijadwalkan?
+196;Working on multiple projects can be as challenging as it is rewarding.;Bekerja pada beberapa proyek bisa sama menantangnya seperti memuaskannya.
+197;Yesterday, a fire broke out in the building, and firefighters rushed to the scene.;Kemarin, terjadi kebakaran di gedung, dan petugas pemadam kebakaran bergegas ke lokasi.
+198;Yesterday, I attended a conference on business strategies.;Kemarin, saya menghadiri konferensi tentang strategi bisnis.
+199;Yesterday, I finished my homework early.;Kemarin, saya menyelesaikan pekerjaan rumah saya lebih awal.
+200;Yesterday, I took a scenic hike in the national park.;Kemarin, saya melakukan pendakian pemandangan indah di taman nasional.
