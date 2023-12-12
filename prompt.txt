@@ -503,7 +503,7 @@ Wear
 Win
 Work
 
-terdapat kalimat aktif, pasif, question, past, future, present, comparison, if - else dan lain nya total nya 50 kalimat
+terdapat kalimat aktif, pasif, question, past, future, present, comparison, if - else dan lain nya total nya 500 kalimat
 
 format nya
 
@@ -512,6 +512,6 @@ format nya
 3. ...
 4. ...
 ...
-50. ...
+500. ...
 
 hanya list kalimat nya saja, panjang kalimat minimal 10 kata tiap kalimat, tema kalimat nya tentang kegiatan sekolah
