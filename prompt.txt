@@ -1,0 +1,53 @@
+tolong buatkan kalimat dalam bahasa inggris untuk saya belajar 
+
+menggunakan kata kata ini, minimal satu kata
+
+Youngest
+Moment
+Lovely
+Queen
+Skies
+Deepest
+Love
+Felt
+Crazy
+Before
+Paint
+Picture
+Thousand
+Sunsets
+Freedom
+Doves
+Baby
+Been
+Around
+World
+Met
+Girl
+Coming
+Home
+Place
+Known
+Since
+Came
+Life
+Days
+Fade
+Black
+White
+Everything
+Changed
+Into
+
+terdapat kalimat aktif, pasif, question, past, future, present, comparison, if - else dan lain nya total nya 50 kalimat
+
+format nya
+
+1. ...
+2. ...
+3. ...
+4. ...
+...
+50. ...
+
+hanya list kalimat nya saja
