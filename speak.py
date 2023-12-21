@@ -11,7 +11,7 @@ def load_data():
     data = pd.read_csv(csv_file_path, delimiter=";")
     return data
 
-st.title("Just Read")
+st.title("IQRA")
 
 data = load_data()
 n_rows = data.shape[0]
