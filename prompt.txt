@@ -1,6 +1,6 @@
 tolong buatkan kalimat dalam bahasa inggris untuk saya belajar 
 
-terdapat kalimat aktif, pasif, question, past, future, present, comparison, if - else dan lain nya total nya 250 kalimat yang berbeda
+terdapat kalimat aktif, pasif, question, past, future, present, comparison, if - else dan lain nya total nya 250 kalimat yang berbeda, panjang kalimat minimal 5 kata tiap kalimat, tema kalimat nya tentang kegiatan sekolah, subject tiap kalimat nya adalah "saya" atau "I"
 
 format nya
 
@@ -11,4 +11,4 @@ format nya
 ...
 250. ...
 
-hanya list kalimat nya saja, panjang kalimat minimal 5 kata tiap kalimat, tema kalimat nya tentang kegiatan sekolah, subject tiap kalimat nya adalah "saya" atau "I"
+hanya list kalimat nya saja
