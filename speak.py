@@ -39,5 +39,6 @@ if st.button("Next"):
 if st.session_state.current_index is not None:
     st.write(f"{n_rows}")
     current_index = st.session_state.current_index
+    st.write(f"{data['Question'][current_index]}")
     st.markdown(f'<div style="font-size: 20px; font-weight: bold;">{data["English"][current_index]}</div>', unsafe_allow_html=True)
     st.write(f"{data['bahasa'][current_index]}")
