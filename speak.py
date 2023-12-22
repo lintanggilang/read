@@ -43,3 +43,5 @@ if st.session_state.current_index is not None:
     st.markdown(f'<div style="font-size: 20px; font-weight: bold;">{data["English"][current_index]}</div>', unsafe_allow_html=True)
     st.write(" ")
     st.write(f"{data['bahasa'][current_index]}")
+
+st.markdown("Visit my website at [www.lintanggilang.site](https://www.lintanggilang.site)")
