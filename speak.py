@@ -12,6 +12,7 @@ def load_data():
     return data
 
 st.title("IQRA")
+st.markdown("Visit my website at [www.lintanggilang.site](https://www.lintanggilang.site)")
 
 data = load_data()
 n_rows = data.shape[0]
@@ -44,4 +45,3 @@ if st.session_state.current_index is not None:
     st.write(" ")
     st.write(f"{data['bahasa'][current_index]}")
 
-st.markdown("Visit my website at [www.lintanggilang.site](https://www.lintanggilang.site)")
