@@ -38,6 +38,8 @@ if st.button("Next"):
         selected_indices.remove(random_index)
 
 if st.session_state.current_index is not None:
+    st.write(" ")
+    st.write(" ")
     st.write(f"{n_rows}")
     current_index = st.session_state.current_index
     st.write(f"{data['Question'][current_index]}")
